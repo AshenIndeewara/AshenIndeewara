@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Ashen Indeewara</h1>
 <h3 align="center">I'm from Sri lanka 🇱🇰</h3>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F7EE&width=435&lines=Whitespace+matters%2C+don't+trip!;NullPointerException%3A+Java's+best+friend.;Imports%3A+the+ultimate+friendship.;Compile+errors%3A+Java's+surprise+party." alt="Typing SVG" /></a>
+
 <img align="right" alt="Coding" width="400" src="https://github.com/AshenIndeewara/AshenIndeewara/blob/main/laptop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenindeewara&label=Profile%20views&color=0e75b6&style=flat" alt="ashenindeewara" /> </p>
 
