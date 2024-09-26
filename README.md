@@ -5,19 +5,19 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/AshenIndeewara/AshenIndeewara/blob/main/laptop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashenindeewara&label=Profile%20views&color=0e75b6&style=flat" alt="ashenindeewara" /> </p>
 
-- 🔭 I’m currently working on **GDSE - Graduate Diploma in Software Engineering**
+- 🔭 I’m currently working on GDSE - Graduate Diploma in Software Engineering
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning Java
 
-- 💬 Ask me about **Python, Java**
+- 💬 Ask me about Python, Java
 
-- 📫 How to reach me **a.indeewara911@gmail.com**
+- 📫 How to reach me a.indeewara911@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/27487860" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27487860" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100090700386197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090700386197" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/users/1189916772988620880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1189916772988620880" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100090700386197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100090700386197" height="30" width="40" /></a>
+<a href="https://discord.com/users/1189916772988620880" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/1189916772988620880" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
