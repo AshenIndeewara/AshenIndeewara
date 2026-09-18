@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning Java
 
-- 💬 Ask me about Python, Java
+- 💬 Ask me about Python, Java, Laravel
 
 - 📫 How to reach me a.indeewara911@gmail.com
 
